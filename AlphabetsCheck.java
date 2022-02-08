@@ -21,3 +21,5 @@ public class AlphabetsCheck {
         }
     }
 }
+//TimeComplexcity O(n)
+//SpaceComplexcity O(1)
